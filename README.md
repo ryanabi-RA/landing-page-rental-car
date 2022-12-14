@@ -7,4 +7,4 @@ Demo : https://landing-page-rental-car.vercel.app/
 
 ## Screenshots
 
-![NotesApp Page](./Rental.png "NotesApp Page")
+![NotesApp Page](./Rental%20car.png "NotesApp Page")
