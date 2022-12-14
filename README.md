@@ -1,9 +1,9 @@
 # Project Rental Car
 
-Demo : https://noteapp-book.vercel.app/
+Demo : https://landing-page-rental-car.vercel.app/
 
 ### Resources
--  React Js
+-  HTML, CSS
 
 ## Screenshots
 
